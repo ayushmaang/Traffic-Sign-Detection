@@ -1,6 +1,6 @@
 # Traffic-Sign-Detection
 
-This project uses Google's tensorflow to retrain a Convolutional Neural Network to detect whether or not a traffic sign is broken. The Initial Goal of this project was to use **Microsofts Cognitive Services API** to complete the same objective, but the API offers no way of retraining the computer to classify traffic signs. Python 2.7 is used. This project was completed as a proof of concept for 
+This project uses Google's tensorflow to retrain a Convolutional Neural Network to detect whether or not a traffic sign is broken. At first it was belived that the  **Microsofts Cognitive Services API** does not have the features to retrain a NN TO recognize Traffic Signs. It seems that they offer Custom Vision Service which I will look further into in the next week. Apologies for the previous statement. Python 2.7 is used. This project was completed as a proof of concept for 
 
 # To Run the Script
 Before running any code, install tensorflow with the following command
